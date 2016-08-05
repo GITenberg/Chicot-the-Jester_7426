@@ -1,0 +1,30 @@
+_repo: Chicot-the-Jester_7426
+_version: 0.0.1
+alternative_title: La dame de Monsoreau
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: 'An abridged translation of: "La dame de Monsoreau"'
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Henry III, 1574-1589 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Chicot the Jester
+url: http://www.gutenberg.org/ebooks/7426
