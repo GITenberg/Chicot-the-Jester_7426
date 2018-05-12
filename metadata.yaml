@@ -1,6 +1,9 @@
 _repo: Chicot-the-Jester_7426
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: La dame de Monsoreau
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: 'An abridged translation of: "La dame de Monsoreau"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7426#Chicot-the-Jester
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
